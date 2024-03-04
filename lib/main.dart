@@ -1,4 +1,5 @@
-import 'package:biodata_bulanmarseliawt/Tugas2/BiodataMahasiswa2';
+
+import 'package:biodata_bulanmarseliawt/Tugas3/BiodataMahasiswa3.dart';
 import 'package:flutter/material.dart';
 
 
@@ -18,7 +19,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.purple),
         useMaterial3: true,
       ),
-      home: BiodataMahasiswa2(),
+      home: BiodataMahasiswa3(),
     );
   }
 }
